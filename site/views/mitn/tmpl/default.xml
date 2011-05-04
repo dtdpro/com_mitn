@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Article List">
+		<message>Article List</message>
+	</layout>
+	<fields name="request">
+
+		<fieldset name="request">
+			<field name="pagetit" type="text" default="" label="Title" description="title" />	
+			<field name="days" type="text" default="0" label="# of Days to Show" description="0 for all" />	
+			<field name="arts" type="text" default="15" label="# of Articles per page" description="" />	
+		</fieldset>
+	</fields>
+</metadata>
