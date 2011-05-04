@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS `#__mitn` (
   PRIMARY KEY  (`mitn_id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
 
-CREATE TABLE IF NOT EXISTS `jos_mitn_track` (
+CREATE TABLE IF NOT EXISTS `#__mitn_track` (
   `mt_id` bigint(20) NOT NULL AUTO_INCREMENT,
   `mt_item` int(11) NOT NULL,
   `mt_user` int(11) NOT NULL,

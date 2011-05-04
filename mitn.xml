@@ -2,10 +2,10 @@
 <extension type="component" version="1.6.0" method="upgrade">
 	<name>com_mitn</name>
 	<creationDate>2009.08.11</creationDate>
-	<author>Corona Productions</author>
-	<authorEmail>mamundsen@coronapro.com</authorEmail>
-	<authorUrl>http://www.coronapro.com</authorUrl>
-	<copyright>(c)2009-2011 Corona Productions</copyright>
+	<author>DtD Productions</author>
+	<authorEmail>mike@ditzthediasy.com</authorEmail>
+	<authorUrl>http://www.ditzthedaisy.com</authorUrl>
+	<copyright>(c)2009-2011 DtD Productions</copyright>
 	<license>GPL v2</license>
 	<version>1.6</version>
     <releaseDate>2011.05.04</releaseDate>
