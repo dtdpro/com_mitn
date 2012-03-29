@@ -37,7 +37,7 @@ class MitNModelMitN extends JModel
 		$db =& JFactory::getDBO();
 		$query  = 'SELECT * FROM #__mitn';
 		$query .= ' WHERE published = 1';
-		if ($days) $query .= '&& mitn_id = '.$item;
+		$query .= ' && mitn_id = '.$item;
 		$db->setQuery($query); 
 		$list = $db->loadObject();
 		return $list;
