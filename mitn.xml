@@ -28,7 +28,7 @@
 	</languages>
 	<administration>
 		<!-- Administration Menu Section -->
-        <menu>COM_MITN_MENU</menu>		
+                <menu>COM_MITN_MENU</menu>		
 		<files folder="Admin"> 
 			<filename>index.html</filename>
 			<filename>controller.php</filename>
